@@ -1,4 +1,4 @@
-# DEVALOKA
+# [DEVALOKA]{.title style="color: red,;font-weight: bold"}
 
 ### [**Welcome to DEVALOKA**]
 
