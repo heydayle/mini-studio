@@ -1,9 +1,5 @@
-# [DEVALOKA]{.title style="color: red,;font-weight: bold"}
+# [DEVALOKA]{.title style="color: red;font-weight: bold;text-align: center;width: 100%;display: inline-block"}
 
-### [**Welcome to DEVALOKA**]
+[**Welcome to DEVALOKA**]
 
 [More here!](https://github.com/heydayle)
-
----
-
-Look at the [Content documentation](https://content.nuxtjs.org/) to learn more.
