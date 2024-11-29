@@ -1,8 +1,8 @@
-# Nuxt Content
+# DEVALOKA
 
-This page corresponds to the `/` route of your website. You can delete it or create another file in the `content/` directory.
+### [**Welcome to DEVALOKA**]
 
-Try to navigate to [/about](/about). These 2 pages are rendered by the `pages/[...slug].vue` component.
+[More here!](https://github.com/heydayle)
 
 ---
 
