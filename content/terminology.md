@@ -1,4 +1,4 @@
-### 1. \*&#x5F;UGC (User-Generated Content)_\*
+### 1. UGC (User-Generated Content)
 
 **Definition:**:br-ugc refers to any content (such as text, videos, images, reviews, or other forms) created by users or consumers rather than by the brand itself. This content is typically shared on social media platforms, websites, or other public spaces.
 
@@ -13,7 +13,7 @@
 
 ---
 
-### 2. \*&#x5F;SNS (Social Networking Services)_\*
+### 2. SNS (Social Networking Services)
 
 **Definition:**:br-sns refers to online platforms or services that allow users to connect, share content, and interact with others. Popular SNS platforms include Facebook, Instagram, Twitter, LinkedIn, TikTok, etc.
 
@@ -27,7 +27,7 @@
 
 ---
 
-### 3. \*&#x5F;PDCA (Plan-Do-Check-Act)_\*
+### 3. PDCA (Plan-Do-Check-Act)
 
 **Definition:**:br-pdca is a management and improvement cycle that helps businesses continuously improve their processes. It’s used for planning, implementing, reviewing, and refining strategies.
 
@@ -45,7 +45,7 @@
 
 ---
 
-### 4. \*&#x5F;CEP (Customer Experience Platform)_\*
+### 4. CEP (Customer Experience Platform)
 
 **Definition:**:br-a **Customer Experience Platform** is a software or solution designed to manage and improve the interactions a brand has with its customers across multiple touchpoints (websites, apps, social media, email, etc.). The goal is to provide a personalized and seamless experience for customers.
 
@@ -55,12 +55,12 @@
 
 **Importance in Marketing:**
 
-- Enhancing the \*&#x5F;customer experience (CX)_\* is crucial for building loyalty, improving retention, and fostering positive brand perceptions.
+- Enhancing the \*\_customer experience (CX)\_\* is crucial for building loyalty, improving retention, and fostering positive brand perceptions.
 - CEPs allow marketers to understand and predict customer behavior to create tailored experiences.
 
 ---
 
-### 5. \*&#x5F;SOV (Share of Voice)_\*
+### 5. SOV (Share of Voice)
 
 **Definition:**:br **Share of Voice** refers to the percentage of total advertising or media presence that a brand occupies in comparison to its competitors. It's a metric used to understand a brand’s visibility in the market.
 
@@ -77,7 +77,7 @@
 
 ---
 
-### 6. \*&#x5F;VOC (Voice of Customer)_\*
+### 6. VOC (Voice of Customer)
 
 **Definition:**:br **Voice of Customer** refers to the feedback, opinions, preferences, and expectations of customers regarding a brand, product, or service. This feedback is typically collected through surveys, reviews, focus groups, and social listening.
 
@@ -107,7 +107,7 @@ These concepts are all part of modern marketing strategies, helping businesses o
 
 Dưới đây là bản dịch nội dung mà không dịch các thuật ngữ chuyên ngành:
 
-### 1. \*&#x5F;UGC (User-Generated Content)_\*
+### 1. UGC (User-Generated Content)
 
 **Định nghĩa:**:br-ugc là bất kỳ loại nội dung nào (như văn bản, video, hình ảnh, đánh giá hoặc các hình thức khác) do người dùng hoặc người tiêu dùng tạo ra thay vì do thương hiệu tạo ra. Nội dung này thường được chia sẻ trên các nền tảng mạng xã hội, trang web hoặc các không gian công cộng khác.
 
@@ -122,7 +122,7 @@ Dưới đây là bản dịch nội dung mà không dịch các thuật ngữ c
 
 ---
 
-### 2. \*&#x5F;SNS (Social Networking Services)_\*
+### 2. SNS (Social Networking Services)
 
 **Định nghĩa:**:br-sns đề cập đến các nền tảng hoặc dịch vụ trực tuyến cho phép người dùng kết nối, chia sẻ nội dung và tương tác với nhau. Các nền tảng SNS phổ biến bao gồm Facebook, Instagram, Twitter, LinkedIn, TikTok, v.v.
 
@@ -136,7 +136,7 @@ Dưới đây là bản dịch nội dung mà không dịch các thuật ngữ c
 
 ---
 
-### 3. \*&#x5F;PDCA (Plan-Do-Check-Act)_\*
+### 3. PDCA (Plan-Do-Check-Act)
 
 **Định nghĩa:**:br-pdca là một chu trình quản lý và cải tiến giúp doanh nghiệp cải tiến liên tục các quy trình của mình. Nó được sử dụng để lập kế hoạch, triển khai, đánh giá và cải tiến các chiến lược.
 
@@ -154,9 +154,9 @@ Dưới đây là bản dịch nội dung mà không dịch các thuật ngữ c
 
 ---
 
-### 4. \*&#x5F;CEP (Customer Experience Platform)_\*
+### 4. CEP (Customer Experience Platform)
 
-**Định nghĩa:**:br-&#x6D; ột \*&#x5F;Nền tảng trải nghiệm khách hàng (CEP)_\* là phần mềm hoặc giải pháp được thiết kế để quản lý và cải thiện các tương tác mà thương hiệu có với khách hàng trên nhiều điểm tiếp xúc khác nhau (website, ứng dụng, mạng xã hội, email, v.v.). Mục tiêu là cung cấp một trải nghiệm cá nhân hóa và liền mạch cho khách hàng.
+**Định nghĩa:**:br- m ột \*\_Nền tảng trải nghiệm khách hàng (CEP)\_\* là phần mềm hoặc giải pháp được thiết kế để quản lý và cải thiện các tương tác mà thương hiệu có với khách hàng trên nhiều điểm tiếp xúc khác nhau (website, ứng dụng, mạng xã hội, email, v.v.). Mục tiêu là cung cấp một trải nghiệm cá nhân hóa và liền mạch cho khách hàng.
 
 **Ví dụ:**
 
@@ -164,14 +164,14 @@ Dưới đây là bản dịch nội dung mà không dịch các thuật ngữ c
 
 **Tầm quan trọng trong marketing:**
 
-- Cải thiện \*&#x5F;trải nghiệm khách hàng (CX)_\* là điều quan trọng để xây dựng lòng trung thành, cải thiện tỷ lệ giữ chân khách hàng và tạo ra ấn tượng tích cực về thương hiệu.
+- Cải thiện \*\_trải nghiệm khách hàng (CX)\_\* là điều quan trọng để xây dựng lòng trung thành, cải thiện tỷ lệ giữ chân khách hàng và tạo ra ấn tượng tích cực về thương hiệu.
 - CEP cho phép các nhà marketing hiểu và dự đoán hành vi khách hàng để tạo ra các trải nghiệm được cá nhân hóa.
 
 ---
 
-### 5. \*&#x5F;SOV (Share of Voice)_\*
+### 5. SOV (Share of Voice)
 
-**Định nghĩa:**:b&#x72; \*&#x5F;SOV (Share of Voice)_\* là tỷ lệ phần trăm tổng quảng cáo hoặc sự hiện diện truyền thông mà thương hiệu chiếm lĩnh so với các đối thủ cạnh tranh. Đây là một chỉ số được sử dụng để hiểu sự hiện diện của thương hiệu trên thị trường.
+**Định nghĩa:**\*\*\*\* r \*\_SOV (Share of Voice)\_\* là tỷ lệ phần trăm tổng quảng cáo hoặc sự hiện diện truyền thông mà thương hiệu chiếm lĩnh so với các đối thủ cạnh tranh. Đây là một chỉ số được sử dụng để hiểu sự hiện diện của thương hiệu trên thị trường.
 
 **Công thức tính:**
 
@@ -188,9 +188,9 @@ Dưới đây là bản dịch nội dung mà không dịch các thuật ngữ c
 
 ---
 
-### 6. \*&#x5F;VOC (Voice of Customer)_\*
+### 6. VOC (Voice of Customer)
 
-**Định nghĩa:**:b&#x72; \*&#x5F;VOC (Voice of Customer)_\* là phản hồi, ý kiến, sở thích và kỳ vọng của khách hàng đối với một thương hiệu, sản phẩm hoặc dịch vụ. Những phản hồi này thường được thu thập thông qua các khảo sát, đánh giá, nhóm tập trung và giám sát xã hội.
+**Định nghĩa:**\*\*\*\* r \*\_VOC (Voice of Customer)\_\* là phản hồi, ý kiến, sở thích và kỳ vọng của khách hàng đối với một thương hiệu, sản phẩm hoặc dịch vụ. Những phản hồi này thường được thu thập thông qua các khảo sát, đánh giá, nhóm tập trung và giám sát xã hội.
 
 **Ví dụ:**
 
